@@ -1,17 +1,13 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\_Scripts\PlayerAnimator.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\..\Assignment01-master (1)\Assignment01-master\Assets\_Scripts\PlayerController.cs">
     <Files>
-      <File FileName="..\..\..\..\COMP305-MailPilotDemo-master\COMP305-MailPilotDemo-master\Assets\_Scripts\PlayerCollider.cs" Line="11" Column="30" />
-      <File FileName="Assets\_Scripts\GameController.cs" Line="11" Column="26" />
-      <File FileName="..\..\..\..\COMP305-MailPilotDemo-master\COMP305-MailPilotDemo-master\Assets\_Scripts\PlayerAnimator.cs" Line="1" Column="1" />
-      <File FileName="Assets\_Scripts\CoinController.cs" Line="29" Column="2" />
-      <File FileName="..\..\..\..\COMP305-MailPilotDemo-master\COMP305-MailPilotDemo-master\Assets\_Scripts\MenuController.cs" Line="1" Column="1" />
-      <File FileName="..\..\..\..\COMP305-MailPilotDemo-master\COMP305-MailPilotDemo-master\Assets\_Scripts\GameOverController.cs" Line="1" Column="1" />
-      <File FileName="..\..\..\..\COMP305-MailPilotDemo-master\COMP305-MailPilotDemo-master\Assets\_Scripts\HighScoreScript.cs" Line="1" Column="1" />
-      <File FileName="Assets\_Scripts\PlayerCollider.cs" Line="62" Column="32" />
-      <File FileName="..\..\..\..\COMP305-MailPilotDemo-Sec1-master (1)\COMP305-MailPilotDemo-Sec1-master\Assets\_Scripts\PlayerCollider.cs" Line="48" Column="5" />
-      <File FileName="Assets\_Scripts\PlayerAnimator.cs" Line="1" Column="1" />
+      <File FileName="..\..\..\..\Assignment01-master (1)\Assignment01-master\Assets\_Scripts\PlayerController.cs" Line="4" Column="1" />
+      <File FileName="..\..\..\..\Assignment01-master (1)\Assignment01-master\Assets\_Scripts\RoadController.cs" Line="1" Column="1" />
+      <File FileName="..\..\..\..\Assignment01-master (1)\Assignment01-master\Assets\_Scripts\CoinController.cs" Line="5" Column="56" />
+      <File FileName="..\..\..\..\Assignment01-master (1)\Assignment01-master\Assets\_Scripts\EnemyController.cs" Line="2" Column="15" />
+      <File FileName="..\..\..\..\Assignment01-master (1)\Assignment01-master\Assets\_Scripts\PlayerAnimator.cs" Line="5" Column="47" />
+      <File FileName="..\..\..\..\Assignment01-master (1)\Assignment01-master\Assets\_Scripts\PlayerCollider.cs" Line="2" Column="24" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

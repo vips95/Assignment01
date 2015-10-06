@@ -26,4 +26,6 @@ public class CoinController : MonoBehaviour {
 		Vector2 resetPosition = new Vector2 (530f,(Random.Range (-270f, 270f)));
 		gameObject.GetComponent<Transform> ().position = resetPosition;
 	}
-}
+
+	}
+

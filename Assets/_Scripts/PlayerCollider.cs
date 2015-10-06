@@ -46,12 +46,12 @@ public class PlayerCollider : MonoBehaviour {
 				this._EndGame();
 			}
 		}
-
-
-this._SetScore ();
+		
+		
+		this._SetScore ();
 	}
 	
-
+	
 	// PRIVATE METHODS
 	private void _SetScore() {
 		this.scoreLabel.text = "Score: " + this.scoreValue;
@@ -59,14 +59,14 @@ this._SetScore ();
 	}
 	
 	private void _EndGame() {
-
+		this._endAudioSource.Play ();
 		Destroy(gameObject);
 		this.scoreLabel.enabled = false;
 		this.livesLabel.enabled = false;
 		this.gameOverLabel.enabled = true;
 		this.finalScoreLabel.enabled = true;
 		this.finalScoreLabel.text = "Score: " + this.scoreValue;
-		this._endAudioSource.Play ();
+		
 	}
-
+	
 }
