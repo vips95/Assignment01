@@ -1,16 +1,15 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\_Scripts\GameController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\_Scripts\Gamecontroller1.cs">
     <Files>
       <File FileName="Assets\_Scripts\CoinController.cs" Line="1" Column="1" />
       <File FileName="Assets\_Scripts\PlayerController.cs" Line="1" Column="1" />
       <File FileName="..\professor mailpilotdemo sec1\COMP305-MailPilotDemo-master\COMP305-MailPilotDemo-master\Assets\_Scripts\PlayerController.cs" Line="1" Column="1" />
       <File FileName="..\professor mailpilotdemo sec1\COMP305-MailPilotDemo-master\COMP305-MailPilotDemo-master\Assets\_Scripts\OceanController.cs" Line="5" Column="1" />
-      <File FileName="..\professor mailpilotdemo sec1\COMP305-MailPilotDemo-master\COMP305-MailPilotDemo-master\Assets\_Scripts\IslandController.cs" Line="27" Column="66" />
-      <File FileName="..\professor mailpilotdemo sec1\COMP305-MailPilotDemo-master\COMP305-MailPilotDemo-master\Assets\_Scripts\GameController.cs" Line="1" Column="1" />
-      <File FileName="..\professor mailpilotdemo sec1\COMP305-MailPilotDemo-master\COMP305-MailPilotDemo-master\Assets\_Scripts\CloudController.cs" Line="39" Column="36" />
-      <File FileName="Assets\_Scripts\EnemyController.cs" Line="42" Column="27" />
-      <File FileName="Assets\_Scripts\GameController.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\PlayerCollider.cs" Line="10" Column="2" />
+      <File FileName="..\..\..\..\COMP305-MailPilotDemo-master\COMP305-MailPilotDemo-master\Assets\_Scripts\PlayerCollider.cs" Line="17" Column="2" />
+      <File FileName="Assets\_Scripts\GameController.cs" Line="21" Column="29" />
+      <File FileName="Assets\_Scripts\Gamecontroller1.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

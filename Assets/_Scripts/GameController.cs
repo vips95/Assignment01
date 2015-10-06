@@ -3,12 +3,12 @@ using System.Collections;
 
 public class GameController : MonoBehaviour {
 	// PUBLIC INSTANCE VARIABLES
-	public int cloudCount;
-	public GameObject cloud;
+	public int enemyCount;
+	public GameObject enemy;
 	
 	// Use this for initialization
 	void Start () {
-		this._GenerateClouds ();
+		this._GenerateEnemy ();
 	}
 	
 	// Update is called once per frame
@@ -16,10 +16,10 @@ public class GameController : MonoBehaviour {
 		
 	}
 	
-	// generate Clouds
-	private void _GenerateClouds() {
-		for (int count=0; count < this.cloudCount; count++) {
-			Instantiate(cloud);
+	// generate Enemy
+	private void _GenerateEnemy() {
+		for (int count=0; count < this.enemyCount; count++) {
+			Instantiate(enemy);
 		}
 	}
 }
