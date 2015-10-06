@@ -22,7 +22,7 @@ public class PlayerCollider : MonoBehaviour {
 		this._audioSources = this.GetComponents<AudioSource> ();
 		this._enemyAudioSource = this._audioSources [1];
 		this._coinAudioSource = this._audioSources [2];
-		/*this._endAudioSource = this._audioSources [3];*/
+		this._endAudioSource = this._audioSources [3];
 		
 		this._SetScore ();
 		this.gameOverLabel.enabled = false;
@@ -66,6 +66,7 @@ this._SetScore ();
 		this.gameOverLabel.enabled = true;
 		this.finalScoreLabel.enabled = true;
 		this.finalScoreLabel.text = "Score: " + this.scoreValue;
+		this._endAudioSource.Play ();
 	}
 
 }

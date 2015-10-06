@@ -1,6 +1,6 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\..\COMP305-MailPilotDemo-Sec1-master (1)\COMP305-MailPilotDemo-Sec1-master\Assets\_Scripts\PlayerCollider.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\_Scripts\PlayerAnimator.cs">
     <Files>
       <File FileName="..\..\..\..\COMP305-MailPilotDemo-master\COMP305-MailPilotDemo-master\Assets\_Scripts\PlayerCollider.cs" Line="11" Column="30" />
       <File FileName="Assets\_Scripts\GameController.cs" Line="11" Column="26" />
@@ -9,8 +9,9 @@
       <File FileName="..\..\..\..\COMP305-MailPilotDemo-master\COMP305-MailPilotDemo-master\Assets\_Scripts\MenuController.cs" Line="1" Column="1" />
       <File FileName="..\..\..\..\COMP305-MailPilotDemo-master\COMP305-MailPilotDemo-master\Assets\_Scripts\GameOverController.cs" Line="1" Column="1" />
       <File FileName="..\..\..\..\COMP305-MailPilotDemo-master\COMP305-MailPilotDemo-master\Assets\_Scripts\HighScoreScript.cs" Line="1" Column="1" />
-      <File FileName="Assets\_Scripts\PlayerCollider.cs" Line="32" Column="31" />
+      <File FileName="Assets\_Scripts\PlayerCollider.cs" Line="62" Column="32" />
       <File FileName="..\..\..\..\COMP305-MailPilotDemo-Sec1-master (1)\COMP305-MailPilotDemo-Sec1-master\Assets\_Scripts\PlayerCollider.cs" Line="48" Column="5" />
+      <File FileName="Assets\_Scripts\PlayerAnimator.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
